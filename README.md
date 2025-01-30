@@ -22,9 +22,9 @@
 In this project, we explore deep learning techniques to develop an effective image classification model for garbage sorting. We focus on convolutional neural networks (CNNs) to automatically categorize waste into different types, such as plastic, metal, paper, and organic material. Through data preprocessing, model architecture optimization, and hyperparameter tuning, we aim to enhance the model’s accuracy and generalization. The performance of the model is evaluated using metrics such as accuracy and loss, providing insights into its effectiveness for real-world waste classification applications.
 ### Correlation Heatmap
 
-The following heatmap shows the correlation between various features in the dataset:
+The following heatmap shows the confusion matrix to analyze classification errors:
 
-![Correlation Heatmap](images/Capture.PNG)
+![Correlation Heatmap](images/matrix.png)
 
 ### Titanic Deaths and Survivals by Gender
 
