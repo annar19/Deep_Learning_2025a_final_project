@@ -33,19 +33,12 @@ The following graph illustrates the comparison between the number of deaths and 
 ![Titanic Deaths and Survivals](images/Capture.2PNG.PNG)
 ### Survived vs Died by Class
 
-The following pie charts compare the percentages of passengers who survived and died based on their class:
 
-![Survived vs Died by Class](images/Capture1.PNG)
-### Age Distribution by Survival
-
-The following density plot shows the age distribution of passengers who survived and did not survive:
-
-![Age Distribution by Survival](images/Capture4.PNG)
 
 ### Built With
-* Programming Languages: Python
-* Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-* Techniques: Supervised learning, feature engineering, cross-validation, grid search, etc'
+* Programming Languages: Python.
+* Libraries: PIL, collections, glob, io, kagglehub, matplotlib, numpy, os, random, requests, seaborn, scikit-learn, tensorflow, keras.
+* Techniques: Supervised Learning, Cross-validation, Deep Learning, Data Augmentation.
 
 ## Getting Started
 ### Prerequisites
@@ -64,12 +57,13 @@ Make sure you have the following installed:
 * Analyze Results – Review performance metrics, confusion matrices, and visualizations to refine your model.
 
 ## Process
-Loading and preparing the dataset.
-Performing Exploratory Data Analysis (EDA) – handling duplicates, NULL values, and visualizing data.
-Testing multiple learning algorithms to establish a baseline F1 score.
-Conducting 5-fold cross-validation to select the best algorithm.
-Training the dataset with the best-performing model.
-Creating a confusion matrix and visualizing model performance.
+* Loading and Preparing the Dataset – Importing the dataset, handling file structures, and performing necessary preprocessing.
+* Exploratory Data Analysis (EDA) – Identifying missing values, handling duplicates, and visualizing data distributions.
+* Baseline Model Testing – Evaluating multiple learning algorithms to establish a baseline F1 score.
+* Model Selection with Cross-Validation – Conducting 5-fold cross-validation to identify the best-performing algorithm.
+* Training the Best Model – Fine-tuning hyperparameters and training the dataset using the selected model.
+* Performance Evaluation – Creating a confusion matrix, visualizing model accuracy, and analyzing classification performance.
+* Optimizations & Improvements – Applying techniques such as data augmentation, hyperparameter tuning, and model ensembling (if applicable).
 
 
 ## Demo Video
