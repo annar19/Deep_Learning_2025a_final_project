@@ -71,5 +71,5 @@ Make sure you have the following installed:
 * Optimizations & Improvements – Applying techniques such as data augmentation, hyperparameter tuning, and model ensembling (if applicable).
 
 
-## Demo Video
-[Click here to watch the demo video](https://www.youtube.com/watch?v=GpCbY-wfVFE&t=1s)
+## Link to dataset:
+[Click here to see the dataset](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)
