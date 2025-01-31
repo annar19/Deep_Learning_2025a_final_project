@@ -1,6 +1,6 @@
 # Garbage Classification dataset
 ### Deep learning
-
+![](images/all.png)
 
 ### Table of Contents
 
@@ -20,11 +20,11 @@
 
 ## About The Project
 In this project, we explore deep learning techniques to develop an effective image classification model for garbage sorting. We focus on convolutional neural networks (CNNs) to automatically categorize waste into different types, such as plastic, metal, paper, and organic material. Through data preprocessing, model architecture optimization, and hyperparameter tuning, we aim to enhance the model’s accuracy and generalization. The performance of the model is evaluated using metrics such as accuracy and loss, providing insights into its effectiveness for real-world waste classification applications.
-### Correlation Heatmap
+### Error Heatmap
 
 The following heatmap shows the confusion matrix to analyze classification errors:
 
-![Correlation Heatmap](images/matrix.png)
+![Error Heatmap](images/matrix.png)
 
 ### Titanic Deaths and Survivals by Gender
 
@@ -51,16 +51,17 @@ The following density plot shows the age distribution of passengers who survived
 ### Prerequisites
 Make sure you have the following installed:
 
-* Python 3.x – Download from here.
+* Python 3.x.
 * Pip – Python’s package manager for installing dependencies.
-* Jupyter Notebook – Install it via pip install notebook.
-* Required Libraries – Install by running
+* Google Colab – Access it via Google Colab, no installation required.
+* Required Libraries – Install necessary packages for deep learning and image processing.
+* Enable GPU for Faster Training.
 
 ## Usage
-* Clone the repository.
-* Open the Assignment2_supervised_learning_flow.ipynb in Jupyter Notebook.
-* Run the cells to execute the code and view results.
-* Modify parameters or models in the notebook to experiment.
+* Upload the Notebook to Google Colab – Open Google Colab and upload Final_Project_v2_Deep_Learning3.ipynb.
+* Run the Notebook – Execute the cells sequentially to preprocess data, train the model, and evaluate results.
+* Modify Parameters – Adjust hyperparameters, model architecture, or dataset configurations to experiment with different settings.
+* Analyze Results – Review performance metrics, confusion matrices, and visualizations to refine your model.
 
 ## Process
 Loading and preparing the dataset.
