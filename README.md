@@ -73,5 +73,5 @@ Make sure you have the following installed:
 
 ## Link to dataset:
 [Click here to see the dataset](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)
-## Demo video
-[Click here to watch the demo video](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification](https://www.youtube.com/watch?v=GXbbheUbZCg)](https://www.youtube.com/watch?v=GXbbheUbZCg))
+## Demo video  
+[Click here to watch the demo video]([https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification](https://www.youtube.com/watch?v=GXbbheUbZCg))
